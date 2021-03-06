@@ -1,0 +1,4 @@
+This is text-based adventure game.
+When I say that I mean it is just a bunch of print statements. I also used if, elif, else statements so that user can choose what will he do.
+It is kinda horror since there is always bad ending so play it at your own risks.
+I codded it in python 3.8.5.
